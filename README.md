@@ -28,7 +28,7 @@ The SPI bus operates with a single host device and one or more client devices. W
 - [PIC16F15244 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic16f15244&type=&language=&sort=) 
 - [PIC16F15244 MCU Family Video](https://www.youtube.com/watch?v=nHLv3Th-o-s)
 - [PIC16F15244 MCU Product Page](https://www.microchip.com/en-us/product/PIC16F15244)
-- [GitHub Microchip PIC Example : Host SPI I/O Expander using PIC16F15276 microcontroller]()
+- [GitHub Microchip PIC Example : Client SPI I/O Expander using PIC16F15276 microcontroller]()
 - [GitHub Microchip PIC Example : UART I/O Expander using PIC16F15276 microcontroller]()
 
 ## Description
@@ -65,6 +65,7 @@ On host device, on-board switch of the PIC16F15276 Curiosity Nano board is used 
 - [MPLAB® XC8 2.35.0 or a newer compiler](http://www.microchip.com/mplab/compilers)
 - [MPLAB® Code Configurator (MCC) 5.0.3 or newer](https://www.microchip.com/mplab/mplab-code-configurator)
 - MCC Melody Core 2.1.9
+- 
 
 **Note:** 
 
