@@ -63,12 +63,12 @@ void Timer2_Initialize(void){
     T2HLT = 0x11;
     // TRSEL T2INPPS pin; 
     T2RST = 0x0;
-    // PR 255; 
-    T2PR = 0xFF;
+    // PR 195; 
+    T2PR = 0xC3;
     // TMR 0x0; 
     T2TMR = 0x0;
 
-    // Set Default Interrupt Handler
+    // Set default overflow callback
     Timer2_OverflowCallbackRegister(Timer2_DefaultOverflowCallback);
 
     // Clearing IF flag before enabling the interrupt.
