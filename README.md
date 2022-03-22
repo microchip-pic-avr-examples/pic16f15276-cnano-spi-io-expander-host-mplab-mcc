@@ -8,7 +8,7 @@ This code example demonstrates usage of PIC16F15276 microcontroller as a I/O exp
 
 This example highlights usage of PIC MCU as I/O expander. The PIC16F15276 MCU acts as host and is used to control seven segment display. Compatible PIC16F152xx family of MCUs are:PIC16F15244,PIC16F15254,PIC16F15276
 
-Refer code example Client SPI I/O Expander using PIC16F15276 microcontroller for more details bout the client device implementation.
+Refer GitHub code example [Client SPI I/O Expander using PIC16F15276 microcontroller](https://github.com/microchip-pic-avr-examples/pic16f15276-cnano-spi-io-expander-client-mplab-mcc) for more details about the client device implementation.
 
 ## Introduction
 
@@ -28,8 +28,9 @@ The SPI bus operates with a single host device and one or more client devices. W
 - [PIC16F15244 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic16f15244&type=&language=&sort=) 
 - [PIC16F15244 MCU Family Video](https://www.youtube.com/watch?v=nHLv3Th-o-s)
 - [PIC16F15244 MCU Product Page](https://www.microchip.com/en-us/product/PIC16F15244)
-- [GitHub Microchip PIC Example : Client SPI I/O Expander using PIC16F15276 microcontroller]()
-- [GitHub Microchip PIC Example : UART I/O Expander using PIC16F15276 microcontroller]()
+- [GitHub Microchip PIC Example : Client SPI I/O Expander using PIC16F15276 microcontroller](https://github.com/microchip-pic-avr-examples/pic16f15276-cnano-spi-io-expander-client-mplab-mcc)
+- [GitHub Microchip PIC Example : UART I/O Expander Host using PIC16F15276 microcontroller](https://github.com/microchip-pic-avr-examples/pic16f15276-cnano-uart-io-expander-host-mplab-mcc)
+- [GitHub Microchip PIC Example : UART I/O Expander Client using PIC16F15276 microcontroller](https://github.com/microchip-pic-avr-examples/pic16f15276-cnano-uart-io-expander-client-mplab-mcc)
 
 ## Description
 
