@@ -2,7 +2,7 @@
 
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Host SPI I/O Expander using PIC16F15276 microcontroller
+# SPI I/O Expander: Host Implementation using PIC16F15276
 
 This code example demonstrates usage of PIC16F15276 microcontroller as a I/O expander in embedded applications, where the PIC16F15276 microcontroller provides additional I/O pins to the main microcontroller through serial communication interface like I2C or SPI or UART. In this code example, use of Master Synchronous Serial Port(MSSP) peripheral and GPIOs to realize SPI I/O expander is demonstrated.
 
