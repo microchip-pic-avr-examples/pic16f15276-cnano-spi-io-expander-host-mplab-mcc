@@ -8,7 +8,7 @@ This code example demonstrates usage of PIC16F15276 microcontroller as a I/O exp
 
 This example highlights usage of PIC MCU as I/O expander. The PIC16F15276 MCU acts as host and is used to control seven segment display. Compatible PIC16F152xx family of MCUs are:PIC16F15244,PIC16F15254,PIC16F15276
 
-Refer GitHub code example [Client SPI I/O Expander using PIC16F15276 microcontroller](https://github.com/microchip-pic-avr-examples/pic16f15276-cnano-spi-io-expander-client-mplab-mcc) for more details about the client device implementation.
+Refer GitHub code example [SPI I/O Expander using PIC16F15276 microcontroller](https://github.com/microchip-pic-avr-examples/pic16f15276-cnano-spi-io-expander-client-mplab-mcc) for more details about the client device implementation.
 
 ## Introduction
 
@@ -161,7 +161,7 @@ The following images informs about the pin usage in the project.
 The following figure consists of populated PROTO Xplained Pro extension kit, Curiosity Nano Adapter Board and PIC16F15276 Curiosity Nano Evaluation Kit (host and client devices). The figure shows the detailed information about the hardware setup. The populated PROTO Xplained Pro extension kit is interfaced with PIC16F15276 MCU using extension header of the curiosity nano adapter board.
 
 <p align="center">
-  <img width=auto height=auto src="images/">
+  <img width=auto height=auto src="images/HardwareSetup.png">
 </p>
 
 ## Operation
