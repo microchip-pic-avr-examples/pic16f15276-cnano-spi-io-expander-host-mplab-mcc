@@ -164,6 +164,8 @@ The following figure consists of populated PROTO Xplained Pro extension kit, Cur
   <img width=auto height=auto src="images/HardwareSetup.png">
 </p>
 
+***Note: In order to use on-board mechanical switch, timer is used to avoid the debouncing. Thereby, timer input pin RC3 and pin RB5 (on-board switch), need to be shorted using a jumper. The usage of jumper is required as RB5 pin cannot be selected as timer input through PPS feature of the PIC16F15276 microcontroller.***
+
 ## Operation
 
 *	Make the hardware connections as shown in the Hardware Setup. Power up the Curiosity Nano board using micro-USB cable.
