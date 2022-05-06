@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "SPI I/O Expander: Host Implementation using PIC16F15276",
         "projectName": "pic16f15276-cnano-spi-io-expander-host-mplab-mcc",
-        "shortDescription": "This example highlights usage of PIC MCU as I/O expander. The PIC16F15276 MCU acts as host and is used to control seven segment display. Compatible PIC16F152xx family of MCUs are PIC16F15244, PIC16F15254, PIC16F15276.",
+        "shortDescription": "This example highlights usage of PIC MCU as I/O expander. The PIC16F15276 MCU acts as host and is used to control seven segment display. Compatible PIC16F152xx family of MCUs are: PIC16F15244, PIC16F15254, PIC16F15276.",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=6.0.0"
